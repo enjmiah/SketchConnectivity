@@ -1,0 +1,3 @@
+geometry.hpp v2.0.3
+variant v1.2.0
+polylabel v1.1.0

@@ -1,0 +1,15 @@
+desktop.ini
+/build*
+__pycache__
+.ipynb_checkpoints
+*.sublime-project
+*.sublime-workspace
+.vscode
+trash
+/notebook/output
+/tools/report
+/.idea
+.cache
+compile_commands.json
+/cmake-build*
+*.pdf
